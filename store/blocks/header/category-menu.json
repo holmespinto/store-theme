@@ -152,8 +152,7 @@
       "orientation": "vertical"
     },
     "children": [
-      "menu-item#about-us",
-      "menu-item#faq"
+      "menu-item#about-us"
     ]
   },
   "menu-item#about-us": {
@@ -166,26 +165,12 @@
         "type": "internal",
         "href": "/about-us",
         "noFollow": true,
-        "tagTitle": "About us",
-        "text": "About us"
+        "tagTitle": "Compra a través de una consultora online >",
+        "text": "Compra a través de una consultora online >"
       }
     }
   },
-  "menu-item#faq": {
-    "props": {
-      "id": "menu-item-faq",
-      "type": "custom",
-      "iconId": null,
-      "highlight": false,
-      "itemProps": {
-        "type": "internal",
-        "href": "/faq",
-        "noFollow": true,
-        "tagTitle": "FAQ",
-        "text": "FAQ"
-      }
-    }
-  },
+
   "menu-item#contact-us": {
     "props": {
       "id": "menu-item-contact-us",
